@@ -1,9 +1,8 @@
-### Hi guys 👋
+### Hi 👋, My name is Yalle (yeah, I know it is different name hahaha 
 
 <!--
 **yalle-prado/yalle-prado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-My name is Yalle (yeah, I know it is different name hahaha)
 - 🔭I'm brazilian 🇧🇷 , currently living in Dublin, Ireland 🇮🇪
 - I am graduated in computer engineering, where I worked as developer, project manager, system analyst, tester and customer services.
 - I have always been an enthusiast in the area of technology.
