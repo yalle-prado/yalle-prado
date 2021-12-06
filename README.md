@@ -1,4 +1,4 @@
-### Hi 👋, My name is Yalle (yeah, I know it is different name hahah)
+### Hi 👋, My name is Yalle 
 
 <!--
 **yalle-prado/yalle-prado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
