@@ -9,5 +9,5 @@
 - I love spend my time enjoy everything involving music, arts in general, I love beaches, travels, and spend time with friends
 - 💻 I am currently pós graduating in Data Analysis and improving my English 🇬🇧.
 - 🌱 I'm currently learning Python 🐍 ,Flutter and AWS.
-- 💚 I'm passionate about life evolution and I'm looking forward to discovering new solutions.
+- 💚 I'm fascinated about life evolution and I'm looking forward to discovering new solutions.
 - 🎯 My main goal is to become a full-stack developer, where I can contribute to solutions for people.
