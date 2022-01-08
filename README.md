@@ -12,3 +12,8 @@
 - 💚 I'm fascinated about life evolution and I'm looking forward to discovering new solutions.
 - 🎯 My main goal is to become a full-stack developer, where I can contribute to solutions for people.
 - 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yalle-prado&theme=dark&show_icons=true)](https://github.com/yalle-prado/github-readme-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalle-prado&langs_count=8)](https://github.com/yalle-prado/github-readme-stats&theme=dark)
+
