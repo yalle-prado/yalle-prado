@@ -11,3 +11,4 @@
 - 🌱 I'm currently learning Python 🐍 ,Flutter and AWS.
 - 💚 I'm fascinated about life evolution and I'm looking forward to discovering new solutions.
 - 🎯 My main goal is to become a full-stack developer, where I can contribute to solutions for people.
+- 
