@@ -1,17 +1,11 @@
-### Hi 👋, My name is Yalle 
+### Hi 👋, My name is Yalle , Brazilian 🇧🇷 , currently living in Lisbon, Portugal 🇵🇹.
 
 <!--
 **yalle-prado/yalle-prado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭I'm brazilian 🇧🇷 , currently living in Dublin, Ireland 🇮🇪
-- I am graduated in computer engineering, where I worked as developer, project manager, system analyst, tester and customer services.
-- I have always been an enthusiast in the area of technology.
-- I love spend my time enjoy everything involving music, arts in general, I love beaches, travels, and spend time with friends
-- 💻 I am currently pós graduating in Data Analysis and improving my English 🇬🇧.
-- 🌱 I'm currently learning Python 🐍 ,Flutter and AWS.
-- 💚 I'm fascinated about life evolution and I'm looking forward to discovering new solutions.
-- 🎯 My main goal is to become a full-stack developer, where I can contribute to solutions for people.
-- 
+A Senior Software Engineer experienced in back-end development, database analysis, systems architecture, low-level coding, migrations, and strong expertise in developing C#.NET (MVC, Core), also databases such as MS SQL, Oracle, MySql, Postgre, and legacy systems including COBOL, VB, ASP.net, Bash, Shell.
+Proven ability to adapt systems according to business needs, strong financial business knowledge (banks, credit, customer information). Enthusiastic for effective solutions and performance optimization, keen on using Agile methodologies, always focusing on the best solution according to the requirement of the project.
+Software Engineer with experience in building projects with performance, accessibility, and SEO in mind, always with attention to the details when implementing UI mockups. I have experience interacting with 3rd party APIs (analytics, data collection using forms, etc.).
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yalle-prado&theme=dark&show_icons=true)](https://github.com/yalle-prado)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalle-prado&theme=dark)](https://github.com/yalle-prado)
