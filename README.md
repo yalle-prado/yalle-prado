@@ -1,4 +1,4 @@
-### Hi 👋, My name is Yalle , Brazilian 🇧🇷 , currently living in Lisbon, Portugal 	&#127477.
+### Hi 👋, My name is Yalle , Brazilian 🇧🇷 , currently living in Lisbon, Portugal 	🇵🇹.
 
 <!--
 **yalle-prado/yalle-prado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
