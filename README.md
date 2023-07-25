@@ -8,7 +8,7 @@ Proven ability to adapt systems according to business needs, strong financial bu
 Software Engineer with experience in building projects with performance, accessibility, and SEO in mind, always with attention to the details when implementing UI mockups. I have experience interacting with 3rd party APIs (analytics, data collection using forms, etc.).
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yalle-prado&theme=dark&show_icons=true)](https://github.com/yalle-prado)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalle-prado&theme=dark)](https://github.com/yalle-prado)
+[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=yalle-prado&theme=dark&show_icons=true)](https://github.com/yalle-prado)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalle-prado&theme=dark)](https://github.com/yalle-prado)
 
 
  
