@@ -1,4 +1,4 @@
-### Hi 👋, My name is Yalle , Brazilian 🇧🇷 , currently living in Lisbon, Portugal 🇵🇹.
+### Hi 👋, My name is Yalle , Brazilian BR, currently living in Lisbon, Portugal PT.
 
 <!--
 **yalle-prado/yalle-prado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,9 +7,15 @@ A Senior Software Engineer experienced in back-end development, database analysi
 Proven ability to adapt systems according to business needs, strong financial business knowledge (banks, credit, customer information). Enthusiastic for effective solutions and performance optimization, keen on using Agile methodologies, always focusing on the best solution according to the requirement of the project.
 Software Engineer with experience in building projects with performance, accessibility, and SEO in mind, always with attention to the details when implementing UI mockups. I have experience interacting with 3rd party APIs (analytics, data collection using forms, etc.).
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yalle-prado&theme=cobalt2&show_icons=true)](https://github.com/yalle-prado)
+<div class="row">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yalle-prado"/> 
+ <div class="column">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yalle-prado&theme=cobalt2&show_icons=true)](https://github.com/yalle-prado) </div>
+ </div>
+       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalle-prado&theme=cobalt2)](https://github.com/yalle-prado)
 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yalle-prado/)
+[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/?flow_ctx=3b8defe8-3f00-473f-a99f-ac9c72889d4a%3A1690324999)
 
- 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
